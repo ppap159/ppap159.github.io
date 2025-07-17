@@ -6,7 +6,7 @@ categories: [工作, 入职]
 tags: [益通, onboarding, 公司文化]
 author: Leo
 excerpt: "这是我第一天在益通的入职记录，希望记录下所见所感。"
-image: /_posts/images/yitong-building.jpg
+image: /_posts/images/File_Sunflower_sky_backdrop.jpg
 permalink: /yitong-first-day/
 published: true
 toc: true
